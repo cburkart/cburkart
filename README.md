@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔧 You've caught me building a GitHub profile.
 
-I'm Chris Burkart, an academic economist transitioning to Data Science. I spend a lot of my time **data wrangling** and **model-building** but I enjoy both. As an applied econometrician, you might even call me a Data Science hipster--I was into Data Science before it was called Data Science. 
+I'm Chris Burkart, a PhD economist transitioning from academics to Data Science. I spend a lot of my time **data wrangling** and **model-building** but I enjoy both. As an applied econometrician, you might even call me a Data Science hipster--I was into Data Science before it was called Data Science. 
 
 I have years of R code and useful personal R packages that I'm slowly cleaning up and pushing to github, as well as a couple of current projects that I'll start sharing, in both Python and R.
 
